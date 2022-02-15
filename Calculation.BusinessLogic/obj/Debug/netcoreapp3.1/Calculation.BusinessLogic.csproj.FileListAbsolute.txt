@@ -1,0 +1,9 @@
+C:\Users\ShivaThogiti\source\repos\TriangleCoordinates\Calculation.BusinessLogic\bin\Debug\netcoreapp3.1\Calculation.BusinessLogic.deps.json
+C:\Users\ShivaThogiti\source\repos\TriangleCoordinates\Calculation.BusinessLogic\bin\Debug\netcoreapp3.1\Calculation.BusinessLogic.dll
+C:\Users\ShivaThogiti\source\repos\TriangleCoordinates\Calculation.BusinessLogic\bin\Debug\netcoreapp3.1\Calculation.BusinessLogic.pdb
+C:\Users\ShivaThogiti\source\repos\TriangleCoordinates\Calculation.BusinessLogic\obj\Debug\netcoreapp3.1\Calculation.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\ShivaThogiti\source\repos\TriangleCoordinates\Calculation.BusinessLogic\obj\Debug\netcoreapp3.1\Calculation.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\ShivaThogiti\source\repos\TriangleCoordinates\Calculation.BusinessLogic\obj\Debug\netcoreapp3.1\Calculation.BusinessLogic.AssemblyInfo.cs
+C:\Users\ShivaThogiti\source\repos\TriangleCoordinates\Calculation.BusinessLogic\obj\Debug\netcoreapp3.1\Calculation.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ShivaThogiti\source\repos\TriangleCoordinates\Calculation.BusinessLogic\obj\Debug\netcoreapp3.1\Calculation.BusinessLogic.dll
+C:\Users\ShivaThogiti\source\repos\TriangleCoordinates\Calculation.BusinessLogic\obj\Debug\netcoreapp3.1\Calculation.BusinessLogic.pdb
