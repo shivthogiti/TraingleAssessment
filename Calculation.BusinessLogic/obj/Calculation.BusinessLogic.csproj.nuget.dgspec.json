@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\Calculation.BusinessLogic\\Calculation.BusinessLogic.csproj": {}
+    "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleAssessment\\Calculation.BusinessLogic\\Calculation.BusinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\Calculation.BusinessLogic\\Calculation.BusinessLogic.csproj": {
+    "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleAssessment\\Calculation.BusinessLogic\\Calculation.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\Calculation.BusinessLogic\\Calculation.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleAssessment\\Calculation.BusinessLogic\\Calculation.BusinessLogic.csproj",
         "projectName": "Calculation.BusinessLogic",
-        "projectPath": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\Calculation.BusinessLogic\\Calculation.BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleAssessment\\Calculation.BusinessLogic\\Calculation.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\ShivaThogiti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\Calculation.BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleAssessment\\Calculation.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

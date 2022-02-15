@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleCoordinates\\TriangleCoordinates.csproj",
+      "projectUniqueName": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleAssessment\\TriangleCoordinates\\TriangleCoordinates.csproj",
       "projectName": "TriangleCoordinates",
-      "projectPath": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleCoordinates\\TriangleCoordinates.csproj",
+      "projectPath": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleAssessment\\TriangleCoordinates\\TriangleCoordinates.csproj",
       "packagesPath": "C:\\Users\\ShivaThogiti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleCoordinates\\obj\\",
+      "outputPath": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleAssessment\\TriangleCoordinates\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -255,8 +255,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\Calculation.BusinessLogic\\Calculation.BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\Calculation.BusinessLogic\\Calculation.BusinessLogic.csproj"
+            "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleAssessment\\Calculation.BusinessLogic\\Calculation.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleAssessment\\Calculation.BusinessLogic\\Calculation.BusinessLogic.csproj"
             }
           }
         }

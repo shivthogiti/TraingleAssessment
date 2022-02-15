@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bsPuqHWrSJvxaYjzRZzyyiw+vHPJWpeWQfdJ53f59jVWK/IZptE5JSWdCwZGrum4s6jrFHREpzvXJkn6hut1Og==",
+  "dgSpecHash": "V3GQg7tJKA/PlWOl0U9+z3oS7oVaj0WCBahxEA/NgOOos7bx0kszVX1UdQbO0VLQCvsWuYrWji1/V/ImpubaSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleCalculationLogicTests\\TriangleCalculationLogicTests.csproj",
+  "projectFilePath": "C:\\Users\\ShivaThogiti\\source\\repos\\TriangleCoordinates\\TriangleAssessment\\TriangleCalculationLogicTests\\TriangleCalculationLogicTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ShivaThogiti\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\ShivaThogiti\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
